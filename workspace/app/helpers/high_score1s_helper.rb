@@ -1,0 +1,2 @@
+module HighScore1sHelper
+end
